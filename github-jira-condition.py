@@ -25,7 +25,7 @@ def createJIRA():
             {
             "content": [
                 {
-                "text": "GitHub Issue Created.",
+                "text": "GitHub Issue Commented.",
                 "type": "text"
                 }
             ],
@@ -41,7 +41,7 @@ def createJIRA():
         "project": {
         "key": "YOG"
         },
-        "summary": "Githun issue Ticket",
+        "summary": "Github issue comment added",
     },
     "update": {}
     } )
