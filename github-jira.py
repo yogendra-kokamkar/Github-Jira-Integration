@@ -23,7 +23,7 @@ def createJIRA():
             {
             "content": [
                 {
-                "text": "My First Jira Ticket.",
+                "text": "Github issue created.",
                 "type": "text"
                 }
             ],
@@ -39,7 +39,7 @@ def createJIRA():
         "project": {
         "key": "YOG"
         },
-        "summary": "First JIRA Ticket",
+        "summary": "Github JIRA Ticket",
     },
     "update": {}
     } )
